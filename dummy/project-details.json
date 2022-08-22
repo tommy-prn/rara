@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "information": {
+      "type": "Commercial",
+      "year": "2017",
+      "name": "LJ Coffee by Dejima",
+      "address": "Bandung, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Hagai Gitri Batara", "Rizqy Prathama"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666011/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-2_mxgfyq.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666018/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-6_ab3sqt.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666168/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee_ykwmhb.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666017/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-5_v1irij.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666011/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-2_mxgfyq.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666001/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-3_qkyvh4.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665999/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJCoffee-4_sbukpw.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665998/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Denah_iglao8.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665995/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Isometri_m2qhzf.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665993/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Potongan_ysllju.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871724/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/LJCoffee-6_t7lhrs.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659880494/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/Desain_tanpa_judul_onbmdq.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871723/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/LJCoffee-5_njz79r.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871724/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/LJ2_zkpwsd.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871724/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/LJCoffee-3_nrn17z.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871723/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/Compressed/LJCoffee-4_grfqmj.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665998/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Denah_iglao8.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665995/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Isometri_m2qhzf.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665993/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20001%20-%20LJ%20Coffee%20by%20Dejima/LJ-Coffee-Potongan_ysllju.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "information": {
+      "type": "Residential",
+      "year": "2018",
+      "name": "Corner House 1.0",
+      "address": "Bekasi, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Hagai Gitri Batara"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666017/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Casa-DD-47_1.2_hnz521.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666017/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Casa-DD-47_1.2_hnz521.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666017/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/02-FINAL_njmhjs.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666016/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Casa-DD-47_2_-_Photo_gddyct.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666013/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/01-FINAL_grcwl3.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666009/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/03-FINAL_uougjp.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665998/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Casa-DD-47_4_-_Photo_zawgsg.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653665996/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Casa-DD-47_3_-_Photo_jftfev.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871752/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH4_xdz3ai.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871753/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH2_pwvway.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871753/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH5_mhpc7y.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871752/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH1_jq1xr9.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871752/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH3_cxshno.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871753/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH7_kdygae.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871755/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20002%20-%20Corner%20House%201.0/Compressed/CH6_qijblq.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "information": {
+      "type": "Residential",
+      "year": "2020",
+      "name": "Corner House 2.0",
+      "address": "Tangerang Selatan, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Sarah Adeline"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666170/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-15_a304zn.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666229/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-4_lb5ylk.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666216/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-3_gypndn.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666209/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-33_xs1jbf.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666204/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-19_jbtxww.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666170/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-17_foum7c.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666152/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-10_iliupp.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666122/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-62_ykksyy.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666119/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse_jjg98f.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666110/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-61_ac7iim.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666104/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-57_a9kac8.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666095/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-47_x55skd.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666088/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-53_hslefj.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666084/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-45_w0wnvv.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666066/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-44_juhcat.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666066/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-38_iygjew.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666060/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-43_rsacxx.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666025/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20003%20-%20Corner%20House%202.0/CornerHouse-22_hfbt05.jpg"
+    ],
+    "thumbnail": []
+  },
+  {
+    "id": 4,
+    "information": {
+      "type": "Commercial",
+      "year": "2020",
+      "name": "Villa in Tabanan",
+      "address": "Bali, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Hagai Gitri Batara"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666129/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20004%20-%20Villa%20in%20Tabanan/Tampak_cfjdfz.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666129/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20004%20-%20Villa%20in%20Tabanan/Tampak_cfjdfz.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666120/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20004%20-%20Villa%20in%20Tabanan/WhatsApp_Image_2020-11-12_at_13.35.32_rzsjbu.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871804/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20004%20-%20Villa%20in%20Tabanan/Compressed/Tampak_uwlksk.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666120/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20004%20-%20Villa%20in%20Tabanan/WhatsApp_Image_2020-11-12_at_13.35.32_rzsjbu.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "information": {
+      "type": "Residential",
+      "year": "2020",
+      "name": "Mr. Lawyer's Bedroom",
+      "address": "Tangerang Selatan"
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871827/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20005%20-%20Mr.%20Lawyer_s%20Bedroom/Compressed/Kolase_SR005_ailmo8.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666127/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20005%20-%20Mr.%20Lawyer_s%20Bedroom/Kolase_SR005_abczuw.png"
+    ],
+    "thumbnail": []
+  },
+  {
+    "id": 6,
+    "information": {
+      "type": "Commercial",
+      "year": "2020",
+      "name": "CPXI Asia Studio",
+      "address": "Jakarta Selatan, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871839/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20006%20-%20CPXI%20Asia%20Studio/Compressed/CPXI-1_xvikyx.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666274/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20006%20-%20CPXI%20Asia%20Studio/Perspektif_1_za5dlj.png",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666300/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20006%20-%20CPXI%20Asia%20Studio/Perspektif_2_hcgjyg.png"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871839/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20006%20-%20CPXI%20Asia%20Studio/Compressed/CPXI-1_xvikyx.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871840/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20006%20-%20CPXI%20Asia%20Studio/Compressed/CPXI-2_v1uxun.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "information": {
+      "type": "Commercial",
+      "year": "2020",
+      "name": "Jatipadang Studio Desk",
+      "address": "Jakarta Selatan, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666124/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20009%20-%20Jatipadang%20Studio%20Desk/SR009-01_dqhw2d.png",
+    "interior": ["Excel Construction"],
+    "photo": [],
+    "thumbnail": []
+  },
+  {
+    "id": 8,
+    "information": {
+      "type": "Public",
+      "year": "2020",
+      "name": "JXB Bike Lounge",
+      "address": "Jakarta Selatan, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Sarah Adeline"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871889/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Compressed/JXB-Bike-4_peq4nd.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871900/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Render_02_loqbti.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871896/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Render_05_eg0zcc.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871895/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/BIKE_LOUNGE_5_-_Photo_fgr2p4.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871894/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Render_03_kqpdgx.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871889/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Compressed/JXB-Bike-4_peq4nd.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871890/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Compressed/JXB-Bike-2_w9yvwu.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871891/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Compressed/JXB-Bike-1_pnrphy.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871888/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20010%20-%20JXB%20Bike%20Lounge/Compressed/JXB-Bike-3_kol4mp.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "information": {
+      "type": "Commercial",
+      "year": "2021",
+      "name": "Eito Curry 1.0",
+      "address": "Tangerang Selatan"
+    },
+    "PIC": ["Dhaneswara Dewata", "Sarah Adeline"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871903/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20011%20-%20Eito%20Curry%201.0/Compressed/Collage_usva87.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666135/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20011%20-%20Eito%20Curry%201.0/Collage_ifahrm.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666125/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20011%20-%20Eito%20Curry%201.0/WhatsApp_Image_2021-03-15_at_16.57.00_lmkyl4.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871903/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20011%20-%20Eito%20Curry%201.0/Compressed/Collage_usva87.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871903/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20011%20-%20Eito%20Curry%201.0/Compressed/WhatsApp_Image_2021-03-15_at_16.57.00_acog7f.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "information": {
+      "type": "Commercial",
+      "year": "2021",
+      "name": "Hired Today Virtual Job Fair",
+      "address": ""
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871919/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20012%20-%20Hired%20Today%20Virtual%20Job%20Fair/Compressed/postpro_zcozxn.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666136/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20012%20-%20Hired%20Today%20Virtual%20Job%20Fair/postpro_mnprnv.jpg"
+    ],
+    "thumbnail": []
+  },
+  {
+    "id": 11,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "Toba Holiday House",
+      "address": "Sumatera Utara, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Sarah Adeline"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659871947/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Compressed/WhatsApp_Image_2021-03-29_at_22.32.49_t8gomw.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666134/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/WhatsApp_Image_2021-03-29_at_22.32.49_kutle8.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666136/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Isometri-01_s9y26x.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666140/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Denah-01_rsbb8h.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/WhatsApp_Image_2021-03-29_at_22.44.07_vsnpnr.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871947/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Compressed/WhatsApp_Image_2021-03-29_at_22.32.49_t8gomw.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871949/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Compressed/Isometri-01_sqw56k.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871950/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Compressed/Denah-01_ngtqan.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659871948/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20013%20-%20Toba%20Holiday%20House/Compressed/WhatsApp_Image_2021-03-29_at_22.44.07_wizbi7.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "information": {
+      "type": "Commercial",
+      "year": "2021",
+      "name": "Kopi Shiro",
+      "address": "Bekasi, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara", "vernando Antoni"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_9.20.40_PM_yogmav.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_9.20.40_PM_yogmav.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666139/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.27_PM_m4myzp.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_9.20.41_PM_dpcche.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.30_PM_mm1lnh.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.29_PM_zam7xu.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.29_PM_1_eqyi3m.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.28_PM_ljind1.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_9.20.40_PM_yogmav.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666139/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.27_PM_m4myzp.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_9.20.41_PM_dpcche.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666138/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.30_PM_mm1lnh.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.29_PM_zam7xu.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.29_PM_1_eqyi3m.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666137/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20014%20-%20Kopi%20Shiro/WhatsApp_Image_2022-01-07_at_8.28.28_PM_ljind1.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "VA House",
+      "address": "Cibubur, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659872291/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA1_oejzvs.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666375/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/P3_iwe4fh.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666347/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/P6_vw502k.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666344/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/P5_opbzug.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666338/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/P1_vhotrm.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666294/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/P4_tlodjf.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872290/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA2_b88a5x.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872289/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA5_lc6vct.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872291/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA4_rqmv5c.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872291/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA1_oejzvs.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872289/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20015%20-%20VA%20House/Compressed/VA3_j6mtam.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "Sersan Bajuri Retirement House",
+      "address": "Bandung, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara", "vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659872305/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20016%20-%20Sersan%20Bajuri%20Retirement%20House/Compressed/SR_16_1_-_Photo_ny7lcp.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666152/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20016%20-%20Sersan%20Bajuri%20Retirement%20House/SR_16_1_-_Photo_rvbpgh.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666140/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20016%20-%20Sersan%20Bajuri%20Retirement%20House/Plan_c7zc8q.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872305/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20016%20-%20Sersan%20Bajuri%20Retirement%20House/Compressed/SR_16_1_-_Photo_ny7lcp.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872305/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20016%20-%20Sersan%20Bajuri%20Retirement%20House/Compressed/Plan_mual4z.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "Corner House 3.0",
+      "address": "Jakarta Utara, Indonesia"
+    },
+    "PIC": ["Anastasia Nathania", "Dhaneswara Dewata", "Sarah Adeline"],
+    "contractor": [],
+    "mainPhoto": "",
+    "interior": [],
+    "photo": [],
+    "thumbnail": []
+  },
+  {
+    "id": 16,
+    "information": {
+      "type": "Commercial",
+      "year": "2021",
+      "name": "Millenial Food Court",
+      "address": "Tangerang Selatan, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata", "Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659872333/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20018%20-%20Millenial%20Food%20Court/Compressed/MFC2_jzjavg.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872365/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20018%20-%20Millenial%20Food%20Court/4_ifo9gg.png",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872333/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20018%20-%20Millenial%20Food%20Court/Compressed/MFC1_jkg0yg.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872333/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20018%20-%20Millenial%20Food%20Court/Compressed/MFC2_jzjavg.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659872333/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20018%20-%20Millenial%20Food%20Court/Compressed/MFC1_jkg0yg.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "Villa Bintaro Residence",
+      "address": "Tangerang Selatan, Indonesia"
+    },
+    "PIC": ["Dhaneswara Dewata"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "",
+    "interior": ["Excel Construction"],
+    "photo": [],
+    "thumbnail": []
+  },
+  {
+    "id": 18,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "K House",
+      "address": "Bekasi, Indonesia"
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659875065/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20020%20-%20K%20House/Compressed/KHouse1_pt3vk0.jpg",
+    "interior": [],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659875065/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20020%20-%20K%20House/Compressed/KHouse1_pt3vk0.jpg"
+    ],
+    "thumbnail": []
+  },
+  {
+    "id": 19,
+    "information": {
+      "type": "Residential",
+      "year": "2021",
+      "name": "Corner House 4.0",
+      "address": "Tangerang Selatan"
+    },
+    "PIC": ["Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": ["Excel Construction"],
+    "mainPhoto": "https://res.cloudinary.com/kalkulus/image/upload/v1659875088/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20021%20-%20Corner%20House%204.0/Compressed/JHouse1_nmso8s.jpg",
+    "interior": ["Excel Construction"],
+    "photo": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666315/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20021%20-%20Corner%20House%204.0/J_House_2_wxmcri.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1653666306/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20021%20-%20Corner%20House%204.0/J_House_1_chbpjv.jpg"
+    ],
+    "thumbnail": [
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659875093/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20021%20-%20Corner%20House%204.0/Compressed/JHouse2_mtnkai.jpg",
+      "https://res.cloudinary.com/kalkulus/image/upload/v1659875088/SR%20Projects%20Photos-20220527T130708Z-001/SR%20Projects%20Photos/SR%20021%20-%20Corner%20House%204.0/Compressed/JHouse1_nmso8s.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "information": {
+      "type": "Commercial",
+      "year": "2021",
+      "name": "Javanese Contemporary Restaurant",
+      "address": "Tangerang Selatan"
+    },
+    "PIC": ["Dhaneswara Dewata", "Hagai Gitri Batara", "Vernando Antoni"],
+    "contractor": [],
+    "mainPhoto": "",
+    "interior": [],
+    "photo": [],
+    "thumbnail": []
+  }
+]
